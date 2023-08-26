@@ -57,17 +57,16 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
+      <ul>
+          <li><a href="#about-the-project">About The Project</a></li>
+          <li><a href="#built-with">Built With</a></li>
+          <li><a href="#features">Features</a></li>
+      </ul>
+  <!--
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-      <ul>
-        <li><a href="#features">Features</a></li>
-      </ul>
+      
     </li>
-    <!--
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -81,8 +80,8 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-  -->
   </ol>
+  -->
 </details>
 
 
@@ -107,7 +106,7 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Built With
+## Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -124,7 +123,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-### Features
+## Features
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
