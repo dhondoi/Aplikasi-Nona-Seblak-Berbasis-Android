@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dhondoi/Aplikasi-Nona-Seblak-Berbasis-Android">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/title.jpg" alt="Logo" width="400" >
   </a>
 
   <h3 align="center">Aplikasi Nona Seblak Berbasis Android</h3>
@@ -63,7 +63,11 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
+      <ul>
+        <li><a href="#features">Features</a></li>
+      </ul>
     </li>
+    <!--
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -77,6 +81,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+  -->
   </ol>
 </details>
 
@@ -103,6 +108,23 @@ Use the `BLANK_README.md` to get started.
 
 
 ### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Features
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
