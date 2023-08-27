@@ -84,13 +84,10 @@
   -->
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <!-- ![Product Name Screen Shot][product-screenshot] -->
-![Splash Screen][splash-screen]
 
 Seblak merupakan salah satu kuliner yang diminati oleh kalangan para remaja karena kebanyakan kuliner tersebut memiliki cita rasa pedas. Dengan banyaknya minat yang ingin menikmati seblak, menjadikan salah satu plihan untuk para pembisnis untuk memulai usaha, salah satunya adalah Toko Nona Seblak. Toko Nona Seblak menyediakan kategori dalam bentuk paketan maupun prasmanan. Mereka juga menyediakan berbagai macam topping sebagai tambahan, jika para konsumen merasa isi dalam seblak tersebut masih kurang. Setiap hari sebelum toko ditutup, pegawai mengumpulkan semua data penjualan kedalam buku besar. Setelah semua data terkumpul, dikalkulasikan sehingga menghasilkan total penjualan yang didapat. Dengan hal tersebut saya berinisiatif untuk menawarkan aplikasi untuk mengelola data secara komputerisasi.
 
@@ -99,11 +96,9 @@ Alasan Membuat Aplikasi Nona Seblak:
 * Mengurangi pendataan bisnis menggunakan media kertas.
 * Pengkalkulasian secara terkomputerisasi
 
-Dengan alasan tersebut, diharapkan laporan yang dihasilkan lebih efisien dan terorganisir.
+Dengan alasan tersebut, diperlukan aplikasi yang nantinya diharapkan laporan yang dihasilkan lebih efisien dan terorganisir.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## Built With
 
@@ -115,8 +110,6 @@ Untuk membuat Aplikasi ini ada beberapa teknologi yang dibutuhkan.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## Features
 
 ### Mengelola Data Kategori
@@ -125,9 +118,35 @@ Untuk membuat Aplikasi ini ada beberapa teknologi yang dibutuhkan.
 
 Sebelum masuk ke tahap pengelolaan data produk, diperlukan data kategori yang berfungsi untuk mengelompokan produk dengan semestinya.
 
+### Mengelola Data Produk
+
+![Produk Menu][product-menu]
+
+Merupakan tahap pengelolaan data produk, yang nantinya digunakan untuk keperluan dalam tahap pemesanan produk.
+
+### Mengelola Data Varian
+
+![Varian Menu][variant-menu]
+
+Merupakan tahap pengelolaan data varian yang digunakan sebagai opsi setiap adanya pemesanan (misal dalam seblak terdapat varian pedas, sedang, dan tidak pedas)
+
+### Penjualan
+
+Terdapat menu penjualan yang nantinya jika ada pesanan. Terdapat fitur untuk konek ke bluetooth printer (saat ini pengaturannya masih mutlak).
+
+### Laporan Pemasukan
+
+Setelah pesanan selesai dilakukan, data pesanan tersebut masuk ke dalam laporan pemasukan.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Roadmap
 
+- [ ] Buat menjadi support pada semua layar.
+- [ ] Buat pengaturan koneksi bluetooth.
+- [ ] Buat fitur pengelolaan dan laporan pengeluaran.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED 
 ## Getting Started
@@ -268,11 +287,15 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [product-screenshot]: images/splash_screen.jpg
+
 [android-studio]: https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white
 [android-studio-url]: https://developer.android.com/studio
 [java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://openjdk.org/
 [sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [sqlite-url]: https://www.sqlite.org/index.html
+
 [splash-screen]: images/splash_screen.jpg
 [category-menu]: images/category_menu.jpg
+[product-menu]: images/product_menu.jpg
+[variant-menu]: images/variant_menu.jpg
